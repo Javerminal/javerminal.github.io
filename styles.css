@@ -2,6 +2,10 @@
 font-family: 'R&C-Demo';
 src: url('Fonts/R&C-Demo.otf');
 }
+@font-face {
+font-family: 'FoundationOne';
+src: url('Fonts/FoundationOne.ttf');
+}
 body{
     background-color: black;
 }
@@ -33,11 +37,11 @@ pre{
     color: white;
 }
 nav{
-    font-family: 'R&C-Demo', Arial;
+    font-family: 'FoundationOne', Arial;
     color: white;
     text-align: center;
     margin-top: 20px;
     }
-    .nav{
+.nav{
         color: white;
     }
