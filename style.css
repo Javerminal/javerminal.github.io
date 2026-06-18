@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'R&C-Demo';
+src: url('Fonts/R&C-Demo.otf');
+}
+@font-face {
+font-family: 'FoundationOne';
+src: url('Fonts/FoundationOne.ttf');
+}
+@font-face {
+    font-family: 'ShareTechMono';
+    src: url(Fonts/ShareTechMono-Regular.ttf);
+}
