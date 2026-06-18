@@ -34,4 +34,7 @@ pre{
 }
 nav{
     font-family: 'R&C-Demo', Arial;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
 }
